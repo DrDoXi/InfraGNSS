@@ -1,0 +1,29 @@
+{'ANT': {'NUM': '99390', 'TYP': 'TRM29659.00     NONE'},
+ 'ANTDEL': {'EAEC': '0.0000', 'HT': '0.0000', 'NOEC': '0.0000'},
+ 'COMMENT': 'Linux 2.4.21-27.ELsmp|Opteron|gcc -static|Linux 64|=+\n'
+            '     2.11           OBSERVATION DATA    M (MIXED)           \n'
+            'NetR9 5.45          Receiver Operator   20211214 000000 UTC \n'
+            'L2C CARRIER PHASE MEASUREMENTS: PHASE SHIFTS REMOVED        \n'
+            'L2C PHASE MATCHES L2 P PHASE                                \n'
+            'GLONASS C/A & P PHASE MATCH: PHASE SHIFTS REMOVED           \n'
+            'Forced Modulo Decimation to 30 seconds                      \n'
+            'teqc edited: all GLONASS satellites excluded                \n'
+            'teqc edited: all Galileo satellites excluded                ',
+ 'DONEBY': {'AGEN': 'SWISSTOPO', 'OBSV': 'TRIMBLE NETR9'},
+ 'MKNUM': '14001M004',
+ 'MRKR': 'ZIMM',
+ 'OBSTYP': {'NUM': 10,
+            'OBS': ['C1', 'L1', 'S1', 'C2', 'L2', 'S2', 'P2', 'C5', 'S5', '']},
+ 'POS': {'X': 4331297.348, 'Y': 567555.639, 'Z': 4633133.728},
+ 'PRBD': {'DATE': '20211215 00:27:56UTC',
+          'PGEN': 'teqc  2019Feb12',
+          'RUNBY': ''},
+ 'RECV': {'NUM': '5429R49141', 'TYP': 'TRIMBLE NETR9', 'VERS': '5.45'},
+ 'RVDT': {'OBSTYP': 'OBSERVATION DATA', 'SATSYS': 'G (GPS)', 'VER': '2.11'},
+ 'TFIRST': {'DAY': '14',
+            'HR': '0',
+            'MIN': '0',
+            'MON': '12',
+            'SEC': '0.0000000',
+            'TS': 'GPS',
+            'YEAR': '2021'}}
